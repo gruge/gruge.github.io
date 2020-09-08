@@ -4,8 +4,9 @@ table {
 }
 table.table1 {
 	    border-collapse: collapse;
-	top: -100px;
-    width: 300px;
+		position: absolute;
+	top: 350px;
+    	width: 300px;
 	height: 300px;
 }
 td {
